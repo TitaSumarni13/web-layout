@@ -1,0 +1,21 @@
+p{
+    color: rgb(98, 14, 182);
+}
+i{
+    color: rgb(17, 215, 43);
+}
+h2{
+   color: yellow; 
+}
+h3{
+    color: green;
+    font-family: sans-serif ;
+}
+
+.box{
+    border: 5px solid blue;
+}
+
+#font{
+font-size: 30pt;
+}

@@ -1,0 +1,60 @@
+ul li{
+    display: inline-block;
+    border: 1px solid rgb(49, 138, 176);
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: rgb(59, 124, 170);
+}
+.header{
+    background-color: rgb(43, 162, 226);
+    text-align: center;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.container{
+    background-color: rgb(75, 189, 246);
+    padding: 10px;
+    overflow: auto;
+    color: yellow;
+    text-indent: 25px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-decoration: underline;
+    word-spacing: 20px;
+    line-height: 25px;
+}
+.footer{
+    background-color: rgb(97, 148, 216);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: italic;
+}
+.float-left{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    float: left;
+}
+.float-right{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    float: right; 
+}
+body{
+    background-image: url(lumba.png);
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.red{
+    color: red;
+}
